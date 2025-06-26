@@ -1,27 +1,23 @@
 {
-    "name":"Example Listing",
-    "id":"com.vrchat.example-listing",
-    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
+    "name":"Rainy's VRChat Tools",
+    "id":"com.rainy.vpm",
+    "url":"https://rainy-aa.github.io/vpm/index.json",
     "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
-        "url":"https://hello.vrchat.com"
+        "email":"hello@rainy.fans",
+        "name":"Rainy",
+        "url":"https://github.com/rainy-aa"
     },
-    "description":"Example listing of VRChat packages",
+    "description":"Rainy's VPM Packages",
     "infoLink":{
-        "url":"http://github.com/vrchat-community/template-package-listing",
+        "url":"http://github.com/rainy-aa/vpm",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
-    "githubRepos":[
-        "vrchat-community/clientsim"
-    ],
     "packages":[
         {
-            "name":"com.vrchat.udonsharp",
+            "name":"com.rainy.hierarchyplus",
             "releases":[
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.7/com.vrchat.UdonSharp.zip",
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.6/com.vrchat.UdonSharp-1.1.6.zip"
+                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.7/com.vrchat.UdonSharp.zip"
             ]
         }
     ]
