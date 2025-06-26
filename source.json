@@ -13,12 +13,7 @@
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
-    "packages":[
-        {
-            "name":"com.rainy.hierarchyplus",
-            "releases":[
-                "https://github.com/rainy-aa/HierarchyPlus/releases/download/v1.3.0/HierarchyPlus-v1.3.0-VPM.zip"
-            ]
-        }
+    "githubRepos":[
+	"rainy-aa/hierarchyplus"
     ]
 }
