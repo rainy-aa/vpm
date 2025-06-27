@@ -1,5 +1,5 @@
 {
-    "name":"Rainy's VRChat Tools",
+    "name":"Rainy's VRChat Toolbox",
     "id":"com.rainy.vpm",
     "url":"https://rainy-aa.github.io/vpm/index.json",
     "author":{
@@ -7,7 +7,7 @@
         "name":"Rainy",
         "url":"https://github.com/rainy-aa"
     },
-    "description":"Rainy's VPM Packages",
+    "description":"Stuff I use and whatever else as packages",
     "infoLink":{
         "url":"http://github.com/rainy-aa/vpm",
         "text":"View on GitHub"
@@ -18,6 +18,18 @@
             "name":"com.rainy.hierarchyplus",
             "releases":[
                 "https://github.com/rainy-aa/HierarchyPlus/releases/download/v1.3.0/HierarchyPlus-v1.3.0-VPM.zip"
+            ]
+        },
+		{
+            "name":"com.rainy.vrcsdkplus",
+            "releases":[
+                "https://github.com/rainy-aa/VRCSDKPlus/releases/download/v1.5.1/VRCSDKPlus-v1.5.1-VPM.zip"
+            ]
+        },
+		{
+            "name":"com.rainy.blendtreebuilder",
+            "releases":[
+                "https://github.com/rainy-aa/BlendTreeBuilder/releases/download/v0.8.1/BlendTreeBuilder-v0.8.1-VPM.zip"
             ]
         }
 	]
